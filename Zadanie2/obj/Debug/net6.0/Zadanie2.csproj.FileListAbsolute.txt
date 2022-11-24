@@ -1,0 +1,15 @@
+E:\seminarC#\Zadanie2\bin\Debug\net6.0\Zadanie2.exe
+E:\seminarC#\Zadanie2\bin\Debug\net6.0\Zadanie2.deps.json
+E:\seminarC#\Zadanie2\bin\Debug\net6.0\Zadanie2.runtimeconfig.json
+E:\seminarC#\Zadanie2\bin\Debug\net6.0\Zadanie2.dll
+E:\seminarC#\Zadanie2\bin\Debug\net6.0\Zadanie2.pdb
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.AssemblyReference.cache
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfoInputs.cache
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.AssemblyInfo.cs
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.csproj.CoreCompileInputs.cache
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.dll
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\refint\Zadanie2.dll
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.pdb
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\Zadanie2.genruntimeconfig.cache
+E:\seminarC#\Zadanie2\obj\Debug\net6.0\ref\Zadanie2.dll
