@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\seminarC#\\Zadanie8\\Zadanie8.csproj": {}
+    "E:\\seminarC#\\HomeTasks\\Zadanie8\\Zadanie8.csproj": {}
   },
   "projects": {
-    "E:\\seminarC#\\Zadanie8\\Zadanie8.csproj": {
+    "E:\\seminarC#\\HomeTasks\\Zadanie8\\Zadanie8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\seminarC#\\Zadanie8\\Zadanie8.csproj",
+        "projectUniqueName": "E:\\seminarC#\\HomeTasks\\Zadanie8\\Zadanie8.csproj",
         "projectName": "Zadanie8",
-        "projectPath": "E:\\seminarC#\\Zadanie8\\Zadanie8.csproj",
+        "projectPath": "E:\\seminarC#\\HomeTasks\\Zadanie8\\Zadanie8.csproj",
         "packagesPath": "C:\\Users\\Zingayya\\.nuget\\packages\\",
-        "outputPath": "E:\\seminarC#\\Zadanie8\\obj\\",
+        "outputPath": "E:\\seminarC#\\HomeTasks\\Zadanie8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zingayya\\AppData\\Roaming\\NuGet\\NuGet.Config"

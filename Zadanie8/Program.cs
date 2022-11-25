@@ -8,14 +8,14 @@ if(n > 0)
          {
           while (count <= n)
             {
-            Console.WriteLine(count);
+            Console.Write(count + ", ");
             count+=2;
                }
            }
       else {
          while(count <= n-1)
          {
-            Console.WriteLine(count);
+            Console.Write(count + ", ");
             count+=2;
          }
 
