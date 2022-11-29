@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\bin\Debug\net6.0\dopZad,VtoroyMax.exe
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\bin\Debug\net6.0\dopZad,VtoroyMax.deps.json
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\bin\Debug\net6.0\dopZad,VtoroyMax.runtimeconfig.json
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\bin\Debug\net6.0\dopZad,VtoroyMax.dll
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\bin\Debug\net6.0\dopZad,VtoroyMax.pdb
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.dll
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\refint\dopZad,VtoroyMax.dll
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.pdb
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\dopZad,VtoroyMax.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\dopZad,VtoroyMax\obj\Debug\net6.0\ref\dopZad,VtoroyMax.dll

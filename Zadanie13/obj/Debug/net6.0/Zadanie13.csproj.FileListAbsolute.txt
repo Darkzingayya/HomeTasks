@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie13\bin\Debug\net6.0\Zadanie13.exe
+E:\seminarC#\HomeTasks\Zadanie13\bin\Debug\net6.0\Zadanie13.deps.json
+E:\seminarC#\HomeTasks\Zadanie13\bin\Debug\net6.0\Zadanie13.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie13\bin\Debug\net6.0\Zadanie13.dll
+E:\seminarC#\HomeTasks\Zadanie13\bin\Debug\net6.0\Zadanie13.pdb
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.dll
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\refint\Zadanie13.dll
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.pdb
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\Zadanie13.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie13\obj\Debug\net6.0\ref\Zadanie13.dll
