@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-int m1 = 2, m2 = 1, a = 1;
+int m1 = 1, m2 = 1, a = 1;
 Console.WriteLine("Введите последовательность натуральных чисел чисел: ");
 while (a > 0) {
 a = Convert.ToInt32 (Console.ReadLine());
