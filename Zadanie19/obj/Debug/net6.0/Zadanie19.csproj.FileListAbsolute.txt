@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie19\bin\Debug\net6.0\Zadanie19.exe
+E:\seminarC#\HomeTasks\Zadanie19\bin\Debug\net6.0\Zadanie19.deps.json
+E:\seminarC#\HomeTasks\Zadanie19\bin\Debug\net6.0\Zadanie19.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie19\bin\Debug\net6.0\Zadanie19.dll
+E:\seminarC#\HomeTasks\Zadanie19\bin\Debug\net6.0\Zadanie19.pdb
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.dll
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\refint\Zadanie19.dll
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.pdb
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\Zadanie19.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie19\obj\Debug\net6.0\ref\Zadanie19.dll
