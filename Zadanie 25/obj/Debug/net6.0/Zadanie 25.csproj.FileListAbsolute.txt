@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 25\bin\Debug\net6.0\Zadanie 25.exe
+E:\seminarC#\HomeTasks\Zadanie 25\bin\Debug\net6.0\Zadanie 25.deps.json
+E:\seminarC#\HomeTasks\Zadanie 25\bin\Debug\net6.0\Zadanie 25.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie 25\bin\Debug\net6.0\Zadanie 25.dll
+E:\seminarC#\HomeTasks\Zadanie 25\bin\Debug\net6.0\Zadanie 25.pdb
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.dll
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\refint\Zadanie 25.dll
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.pdb
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\Zadanie 25.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie 25\obj\Debug\net6.0\ref\Zadanie 25.dll
