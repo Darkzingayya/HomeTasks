@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 38\bin\Debug\net6.0\Zadanie 38.exe
+E:\seminarC#\HomeTasks\Zadanie 38\bin\Debug\net6.0\Zadanie 38.deps.json
+E:\seminarC#\HomeTasks\Zadanie 38\bin\Debug\net6.0\Zadanie 38.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie 38\bin\Debug\net6.0\Zadanie 38.dll
+E:\seminarC#\HomeTasks\Zadanie 38\bin\Debug\net6.0\Zadanie 38.pdb
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.dll
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\refint\Zadanie 38.dll
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.pdb
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\Zadanie 38.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie 38\obj\Debug\net6.0\ref\Zadanie 38.dll

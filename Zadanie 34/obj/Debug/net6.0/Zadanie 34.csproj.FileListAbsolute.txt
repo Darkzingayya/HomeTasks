@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie 34\bin\Debug\net6.0\Zadanie 34.exe
+E:\seminarC#\HomeTasks\Zadanie 34\bin\Debug\net6.0\Zadanie 34.deps.json
+E:\seminarC#\HomeTasks\Zadanie 34\bin\Debug\net6.0\Zadanie 34.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie 34\bin\Debug\net6.0\Zadanie 34.dll
+E:\seminarC#\HomeTasks\Zadanie 34\bin\Debug\net6.0\Zadanie 34.pdb
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.dll
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\refint\Zadanie 34.dll
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.pdb
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\Zadanie 34.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie 34\obj\Debug\net6.0\ref\Zadanie 34.dll
