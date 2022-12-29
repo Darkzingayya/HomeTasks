@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie 41\bin\Debug\net6.0\Zadanie 41.exe
+E:\seminarC#\HomeTasks\Zadanie 41\bin\Debug\net6.0\Zadanie 41.deps.json
+E:\seminarC#\HomeTasks\Zadanie 41\bin\Debug\net6.0\Zadanie 41.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie 41\bin\Debug\net6.0\Zadanie 41.dll
+E:\seminarC#\HomeTasks\Zadanie 41\bin\Debug\net6.0\Zadanie 41.pdb
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.dll
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\refint\Zadanie 41.dll
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.pdb
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\Zadanie 41.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie 41\obj\Debug\net6.0\ref\Zadanie 41.dll
