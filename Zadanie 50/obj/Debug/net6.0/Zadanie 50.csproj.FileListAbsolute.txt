@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie 50\bin\Debug\net6.0\Zadanie 50.exe
+E:\seminarC#\HomeTasks\Zadanie 50\bin\Debug\net6.0\Zadanie 50.deps.json
+E:\seminarC#\HomeTasks\Zadanie 50\bin\Debug\net6.0\Zadanie 50.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie 50\bin\Debug\net6.0\Zadanie 50.dll
+E:\seminarC#\HomeTasks\Zadanie 50\bin\Debug\net6.0\Zadanie 50.pdb
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.dll
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\refint\Zadanie 50.dll
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.pdb
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\Zadanie 50.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie 50\obj\Debug\net6.0\ref\Zadanie 50.dll
