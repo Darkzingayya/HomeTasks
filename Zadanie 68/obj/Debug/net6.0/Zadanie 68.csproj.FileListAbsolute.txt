@@ -1,0 +1,15 @@
+E:\seminarC#\HomeTasks\Zadanie 68\bin\Debug\net6.0\Zadanie 68.exe
+E:\seminarC#\HomeTasks\Zadanie 68\bin\Debug\net6.0\Zadanie 68.deps.json
+E:\seminarC#\HomeTasks\Zadanie 68\bin\Debug\net6.0\Zadanie 68.runtimeconfig.json
+E:\seminarC#\HomeTasks\Zadanie 68\bin\Debug\net6.0\Zadanie 68.dll
+E:\seminarC#\HomeTasks\Zadanie 68\bin\Debug\net6.0\Zadanie 68.pdb
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.csproj.AssemblyReference.cache
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.AssemblyInfoInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.AssemblyInfo.cs
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.csproj.CoreCompileInputs.cache
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.dll
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\refint\Zadanie 68.dll
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.pdb
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\Zadanie 68.genruntimeconfig.cache
+E:\seminarC#\HomeTasks\Zadanie 68\obj\Debug\net6.0\ref\Zadanie 68.dll
